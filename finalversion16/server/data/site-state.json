@@ -1,0 +1,1085 @@
+{
+  "profile": {
+    "name": "BAPATHI SARANYA",
+    "role": "Data Science Student",
+    "course": "Bachelore-CSEDS",
+    "rollNo": "24102A030008",
+    "subject": "Data Science Laboratory",
+    "university": "Mohan Babu University",
+    "faculty": "S.BosuBabu",
+    "avatar": "",
+    "linkedIn": "https://www.linkedin.com/in/saranya-bapathi-b10b97370",
+    "github": "https://github.com/bapathisharanya28",
+    "email": "bapathisharanyareddy@gmail.com",
+    "semester": "2026",
+    "batch": "2024-2025",
+    "branch": "CSE (DS)",
+    "section": "DS-1",
+    "resume": null
+  },
+  "modules": [
+    {
+      "id": 1,
+      "number": 1,
+      "title": "Introduction",
+      "periods": 9,
+      "description": "Introduction to Data Science, including its definition, required skills, tools, data types, data collections, preprocessing, data analysis, and major types of analytics.",
+      "overview": "This module introduces the foundations of Data Science. It covers what Data Science is, the skills and tools needed for data science work, different data types and collections, data preprocessing, and the major approaches used for analysing data.",
+      "objectives": [
+        "Understand the definition and fundamentals of Data Science.",
+        "Identify the skills and tools required for Data Science.",
+        "Understand different data types and data collections.",
+        "Explain data preprocessing and data analysis.",
+        "Differentiate descriptive, diagnostic, predictive, prescriptive, exploratory, and mechanistic analysis."
+      ],
+      "topics": [
+        "Definition of Data Science",
+        "Skills for Data Science",
+        "Tools for Data Science",
+        "Data Types",
+        "Data Collections",
+        "Data Preprocessing",
+        "Data Analysis",
+        "Descriptive Analysis",
+        "Diagnostic Analysis",
+        "Predictive Analytics",
+        "Prescriptive Analytics",
+        "Exploratory Analysis",
+        "Mechanistic Analysis"
+      ],
+      "experiments": [],
+      "pdfs": [
+        {
+          "id": "ds-mod1.pdf",
+          "name": "ds-mod1.pdf",
+          "dataUrl": "/ds-mod1.pdf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "title": "Data Extraction",
+      "periods": 9,
+      "description": "Extracting meaning from data through feature selection, user retention, filters, wrappers, entropy, decision tree algorithms, random forests, the dimensionality problem, SVD, and PCA.",
+      "overview": "This module focuses on extracting useful information from data and selecting informative features. It introduces feature-selection approaches, decision trees, random forests, dimensionality problems, singular value decomposition, and principal component analysis.",
+      "objectives": [
+        "Understand how useful meaning can be extracted from data.",
+        "Explain feature selection and feature-selection methods.",
+        "Understand entropy and decision tree algorithms.",
+        "Describe random forests and their use in data analysis.",
+        "Understand the dimensionality problem, SVD, and PCA."
+      ],
+      "topics": [
+        "Extracting Meaning from Data",
+        "Feature Selection",
+        "User Retention",
+        "Filters",
+        "Wrappers",
+        "Entropy",
+        "Decision Tree Algorithm",
+        "Random Forests",
+        "Dimensionality Problem",
+        "Single Value Decomposition",
+        "Principal Component Analysis"
+      ],
+      "experiments": [],
+      "pdfs": [
+        {
+          "id": "ds-mod2.pdf",
+          "name": "ds-mod2.pdf",
+          "dataUrl": "/ds-mod2.pdf"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "title": "Data Visualization",
+      "periods": 8,
+      "description": "Visualizing data using Matplotlib, Pandas, Seaborn, line plots, bar plots, histograms, density plots, scatter plots, facet grids, and categorical data visualizations.",
+      "overview": "This module introduces Python-based data visualization. It covers the Matplotlib API, plotting with Pandas and Seaborn, and a range of plots for understanding distributions, relationships, and categorical data.",
+      "objectives": [
+        "Understand the basic Matplotlib API.",
+        "Create visualizations using Pandas and Seaborn.",
+        "Represent data using line plots, bar plots, histograms, and density plots.",
+        "Create scatter plots and facet grids.",
+        "Visualize categorical data effectively."
+      ],
+      "topics": [
+        "Matplotlib API",
+        "Plotting with Pandas",
+        "Seaborn",
+        "Line Plots",
+        "Bar Plots",
+        "Histograms",
+        "Density Plots",
+        "Scatter Plots",
+        "Facet Grids",
+        "Categorical Data",
+        "Other Python Visualization Tools"
+      ],
+      "experiments": [],
+      "pdfs": [
+        {
+          "id": "ds-mod3.pdf",
+          "name": "ds-mod3.pdf",
+          "dataUrl": "/ds-mod3.pdf"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "title": "Statistical Thinking",
+      "periods": 11,
+      "description": "Understanding distributions through histograms, outliers, variance, probability mass functions, cumulative distribution functions, percentile-based statistics, random numbers, and probability distributions.",
+      "overview": "This module develops statistical thinking for understanding and representing data distributions. It covers histograms, outliers, variance, PMFs, CDFs, percentile-based statistics, random numbers, and important probability distributions including exponential, normal, and lognormal distributions.",
+      "objectives": [
+        "Represent and plot distributions using histograms.",
+        "Identify outliers and summarize distributions.",
+        "Understand variance and probability mass functions.",
+        "Represent and interpret cumulative distribution functions and percentile-based statistics.",
+        "Understand exponential, normal, and lognormal distributions."
+      ],
+      "topics": [
+        "Distributions",
+        "Representing and Plotting Histograms",
+        "Outliers",
+        "Summarizing Distributions",
+        "Variance",
+        "Reporting Results",
+        "Probability Mass Function",
+        "Plotting PMFs",
+        "Other Visualizations",
+        "Class Size Paradox",
+        "Data Frame Indexing",
+        "Cumulative Distribution Functions",
+        "Limits of PMFs",
+        "Representing CDFs",
+        "Percentile Based Statistics",
+        "Random Numbers",
+        "Comparing Percentile Ranks",
+        "Modeling Distributions",
+        "Exponential Distribution",
+        "Normal Distribution",
+        "Lognormal Distribution"
+      ],
+      "pdfs": [
+        {
+          "id": "ds-mod4.pdf",
+          "name": "ds-mod4.pdf",
+          "dataUrl": "/ds-mod4.pdf"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "title": "Time Series Analysis and Predictive Modeling",
+      "periods": 8,
+      "description": "Analysing time series through importing and cleaning data, plotting, moving averages, missing values, serial correlation, autocorrelation, predictive modeling, model evaluation, model-solution building, and sentiment analysis.",
+      "overview": "This module introduces time series analysis and predictive modeling. It covers importing and cleaning time-series data, plotting and moving averages, handling missing values, serial correlation and autocorrelation, predictive modeling, evaluation of predictive models, building predictive model solutions, and sentiment analysis.",
+      "objectives": [
+        "Import, clean, and plot time-series data.",
+        "Understand moving averages and missing values in time series.",
+        "Explain serial correlation and autocorrelation.",
+        "Understand predictive modeling and evaluate predictive models.",
+        "Build predictive model solutions and understand sentiment analysis."
+      ],
+      "topics": [
+        "Time Series Analysis",
+        "Importing and Cleaning",
+        "Plotting",
+        "Moving Averages",
+        "Missing Values",
+        "Serial Correlation",
+        "Autocorrelation",
+        "Predictive Modeling",
+        "Predictive Modeling Overview",
+        "Evaluating Predictive Models",
+        "Building Predictive Model Solutions",
+        "Sentiment Analysis"
+      ],
+      "pdfs": [
+        {
+          "id": "ds-mod5.pdf",
+          "name": "ds-mod5.pdf",
+          "dataUrl": "/ds-mod5.pdf"
+        }
+      ]
+    }
+  ],
+  "experiments": [
+    {
+      "id": 1,
+      "number": 1,
+      "name": "Working with Different Data Formats using Pandas",
+      "description": "A practical exploration of CSV, JSON, and Excel data handling with Pandas, including reading, writing, parsing, and working with multiple sheets.",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "1A",
+          "name": "CSV File Handling",
+          "description": "Read an online CSV dataset, write CSV output, and work with tab-delimited student data.",
+          "code": "import pandas as pd\nimport os\n\n# 1A.1 - Read CSV file (cached locally for instant loading, with online fallback)\nurl = \"https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv\"\nif os.path.exists(\"iris.csv\"):\n    df = pd.read_csv(\"iris.csv\")\nelse:\n    try:\n        df = pd.read_csv(url)\n    except Exception:\n        df = pd.read_csv(\"students.csv\")\nprint(\"First five rows of the dataset:\")\nprint(df.head())\nprint(\"\\nDataset Information:\")\nprint(df.info())\nprint(\"\\nNumber of rows and columns:\")\nprint(df.shape)\n\n# 1A.2 - Write the DataFrame to CSV\noutput_file = \"iris_output.csv\"\ndf.to_csv(output_file, index=False)\nprint(f\"\\nThe dataset has been successfully written to {output_file}\")\n\n# 1A.3 - Create a tab-delimited student file, then read it\nstudent_data = {\n    \"Roll_No\": [101, 102, 103, 104],\n    \"Name\": [\"Anusha\", \"Babitha\", \"Charitha\", \"Deepika\"],\n    \"Department\": [\"IT\", \"IT\", \"CSE\", \"ECE\"],\n    \"Percentage\": [89, 92, 88, 85]\n}\nstudent_df = pd.DataFrame(student_data)\nstudent_df.to_csv(\"students.txt\", sep=\"\\t\", index=False)\nprint(\"\\nData successfully written to students.txt\")\n\nprint(\"\\nStudent data read from the tab-delimited file:\")\nprint(pd.read_csv(\"students.txt\", sep=\"\\t\"))",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "CSV"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "1B",
+          "name": "JSON File Handling",
+          "description": "Create JSON records, read JSON files, parse JSON text, and consume JSON data from an API.",
+          "code": "import pandas as pd\nfrom io import StringIO\n\n# 1B.1 - Write a DataFrame to JSON\nstudent_data = {\n    \"Roll No\": [101, 102, 103, 104],\n    \"Name\": [\"Anu\", \"Bobby\", \"Cheriy\", \"Duke\"],\n    \"Department\": [\"IT\", \"IT\", \"CSE\", \"DS\"]\n}\ndf = pd.DataFrame(student_data)\ndf.to_json(\"students.json\", orient=\"records\", indent=4)\nprint(\"JSON file created successfully\")\n\n# 1B.2 - Read the JSON file\nprint(\"\\nStudent Data\")\nprint(pd.read_json(\"students.json\"))\n\n# 1B.3 - Parse JSON text directly\njson_data = \"\"\"\n[\n    {\"RollNo\": 101, \"Name\": \"Anu\", \"Marks\": 89},\n    {\"RollNo\": 102, \"Name\": \"Bobby\", \"Marks\": 92},\n    {\"RollNo\": 103, \"Name\": \"Charitha\", \"Marks\": 88}\n]\n\"\"\"\nparsed_df = pd.read_json(StringIO(json_data))\nprint(\"\\nParsed JSON Data\")\nprint(parsed_df)\n\n# 1B.4 - Read JSON data from a public API\nurl = \"https://jsonplaceholder.typicode.com/users\"\napi_df = pd.read_json(url)\nprint(\"\\nFirst 5 API Records:\")\nprint(api_df.head())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "JSON",
+            "API"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "1C",
+          "name": "Excel File Handling",
+          "description": "Write and read Excel files, create multiple worksheets, and load all sheets with Pandas.",
+          "code": "import pandas as pd\n\n# 1C.1 - Write a student DataFrame to Excel\nstudent_data = {\n    \"Roll No\": [101, 102, 103, 104],\n    \"Name\": [\"Anu\", \"Bobby\", \"Cherry\", \"Duke\"],\n    \"Department\": [\"IT\", \"IT\", \"CSE\", \"DS\"],\n    \"Percentage\": [89, 92, 88, 85]\n}\ndf = pd.DataFrame(student_data)\ndf.to_excel(\"students.xlsx\", sheet_name=\"Student-Details\", index=False)\nprint(\"Data successfully written to students.xlsx\")\n\n# 1C.2 - Read the Excel file\nread_df = pd.read_excel(\"students.xlsx\", sheet_name=\"Student-Details\")\nprint(\"\\nData read from Excel File:\")\nprint(read_df)\n\n# 1C.3 - Write multiple DataFrames to different sheets\ncourse_data = {\n    \"Course-ID\": [\"C101\", \"C102\", \"C103\"],\n    \"Course-Name\": [\"Python\", \"DataScience\", \"Machine Learning\"],\n    \"Credits\": [4, 3, 4]\n}\ncourses_df = pd.DataFrame(course_data)\nwith pd.ExcelWriter(\"college-data.xlsx\", engine=\"openpyxl\") as writer:\n    df.iloc[:3].to_excel(writer, sheet_name=\"Students\", index=False)\n    courses_df.to_excel(writer, sheet_name=\"Courses\", index=False)\nprint(\"\\nMultiple sheets successfully written to college-data.xlsx\")\n\n# 1C.4 - Read all sheets\nexcel_data = pd.read_excel(\"college-data.xlsx\", sheet_name=None)\nprint(\"\\nAvailable Sheets:\")\nprint(list(excel_data.keys()))\nprint(\"\\nStudent Sheet:\")\nprint(excel_data[\"Students\"])\nprint(\"\\nCourse Sheet:\")\nprint(excel_data[\"Courses\"])",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Excel",
+            "OpenPyXL"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "name": "Working with APIs and SQLite Databases",
+      "description": "Access live JSON data through a REST API and perform basic database creation, querying, updating, and deletion with SQLite and Pandas.",
+      "coverImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Requests",
+        "SQLite",
+        "Pandas"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "2A",
+          "name": "Working with a REST API",
+          "description": "Retrieve GitHub issue data through an API and convert the JSON response into a Pandas DataFrame.",
+          "code": "import requests\nimport pandas as pd\n\nurl = \"https://api.github.com/repos/pandas-dev/pandas/issues\"\nresponse = requests.get(url)\nissues = response.json()\ndf_issues = pd.DataFrame(issues)\nprint(df_issues[[\"id\", \"title\", \"state\", \"created_at\"]].head())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Requests",
+            "Pandas",
+            "REST API"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "2B",
+          "name": "SQLite Database Operations",
+          "description": "Create a SQLite table, insert records, query them with Pandas, then update and delete a record.",
+          "code": "import sqlite3\nimport pandas as pd\n\nconn = sqlite3.connect(\"students.db\")\ncursor = conn.cursor()\n\ncursor.execute(\"\"\"CREATE TABLE IF NOT EXISTS students\n                  (id INTEGER, name TEXT)\"\"\")\ncursor.execute(\"INSERT INTO students VALUES (1, 'John')\")\nconn.commit()\n\ndf = pd.read_sql_query(\"SELECT * FROM students\", conn)\nprint(df)\n\ncursor.execute(\"UPDATE students SET name = 'Alice' WHERE id = 1\")\ncursor.execute(\"DELETE FROM students WHERE id = 1\")\nconn.commit()\nconn.close()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "SQLite",
+            "SQL",
+            "Pandas"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "name": "Data Cleaning and Preprocessing",
+      "description": "Prepare raw data by identifying missing values, removing duplicates, encoding categories, detecting outliers, and performing simple text splitting.",
+      "coverImage": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Regex"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "3A",
+          "name": "Missing Values and Duplicates",
+          "description": "Inspect missing-value masks, remove incomplete rows, fill missing values, and remove duplicate records.",
+          "code": "import numpy as np\nimport pandas as pd\n\ndata = {\"A\": [1, 2, np.nan], \"B\": [4, np.nan, np.nan]}\ndf = pd.DataFrame(data)\nprint(\"Missing-value mask:\")\nprint(df.isna())\n\ndf_clean = df.dropna()\ndf_filled = df.fillna(0)\nprint(\"\\nRows after dropna():\")\nprint(df_clean)\nprint(\"\\nValues after fillna(0):\")\nprint(df_filled)\n\ndf = df.drop_duplicates()\nprint(\"\\nDuplicates removed:\")\nprint(df)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "3B",
+          "name": "Categorical Encoding",
+          "description": "Map categorical gender values to numeric labels and rename a DataFrame column.",
+          "code": "import pandas as pd\n\ndf = pd.DataFrame({\"gender\": [\"male\", \"female\", \"male\"]})\ndf[\"gender_num\"] = df[\"gender\"].map({\"male\": 0, \"female\": 1})\ndf_renamed = df.rename(columns={\"gender\": \"Gender\"})\nprint(df_renamed)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "3C",
+          "name": "Outlier Detection",
+          "description": "Identify observations outside a simple ±3 standard-deviation-style threshold in random data.",
+          "code": "import numpy as np\nimport pandas as pd\n\ndata = pd.DataFrame(np.random.randn(100, 3))\noutliers = (data > 3) | (data < -3)\nprint(\"Outlier count per column:\")\nprint(outliers.sum())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "3D",
+          "name": "Text Splitting with Regular Expressions",
+          "description": "Split text into tokens using whitespace matching with Python regular expressions.",
+          "code": "import re\n\ntext = \"This is 1 test\"\nsplit_text = re.split(r\"\\s+\", text)\nprint(\"Split text:\")\nprint(split_text)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Regex"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "name": "Advanced Pandas Operations",
+      "description": "Explore hierarchical indexing, reshaping with stack and unstack, and combining complementary DataFrames with Pandas.",
+      "coverImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "NumPy"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "4A",
+          "name": "MultiIndex Series",
+          "description": "Create and query a hierarchical Pandas Series using two index levels.",
+          "code": "import pandas as pd\nimport numpy as np\n\ndata = pd.Series(\n    np.random.randn(6),\n    index=[[\"a\", \"a\", \"b\", \"b\", \"c\", \"c\"], [1, 2, 1, 2, 1, 2]]\n)\nprint(data)\nprint(\"\\nValues under label 'b':\")\nprint(data[\"b\"])\nprint(\"\\nValues at second-level index 1:\")\nprint(data[:, 1])",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "4B",
+          "name": "Stack and Unstack",
+          "description": "Reshape a MultiIndex Series into a DataFrame and stack it back into a Series.",
+          "code": "import pandas as pd\nimport numpy as np\n\ndata = pd.Series(\n    np.random.randn(6),\n    index=[[\"a\", \"a\", \"b\", \"b\", \"c\", \"c\"], [1, 2, 1, 2, 1, 2]]\n)\ndf = data.unstack()\nprint(\"Unstacked DataFrame:\")\nprint(df)\nprint(\"\\nStacked Series:\")\nprint(df.stack())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "4C",
+          "name": "Combine First",
+          "description": "Fill missing values in one DataFrame using values from another DataFrame.",
+          "code": "import pandas as pd\nimport numpy as np\n\ndf1 = pd.DataFrame({\"a\": [1, np.nan, 3], \"b\": [4, 5, 6]})\ndf2 = pd.DataFrame({\"a\": [7, 8, 9], \"b\": [np.nan, 11, 12]})\nmerged = df1.combine_first(df2)\nprint(\"Combined DataFrame:\")\nprint(merged)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "NumPy"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "name": "Data Visualization with Matplotlib and Seaborn",
+      "description": "Create common analytical plots including line, bar, histogram, scatter, and box plots and view the generated figures directly in the lab.",
+      "coverImage": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Matplotlib",
+        "Seaborn"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "5A",
+          "name": "Line Plot",
+          "description": "Create a simple line chart with labels, title, and grid.",
+          "code": "import matplotlib.pyplot as plt\n\nx = [13, 20, 23, 27, 30]\ny = [15, 20, 25, 30, 35]\nplt.plot(x, y)\nplt.title('line plot')\nplt.xlabel(\"x-axis\")\nplt.ylabel(\"y-axis\")\nplt.grid(True)\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "5B",
+          "name": "Bar Plot",
+          "description": "Compare categorical values using a Pandas bar plot.",
+          "code": "import pandas as pd\nimport matplotlib.pyplot as plt\n\ndf = pd.DataFrame({\"Category\": [\"A\", \"B\", \"C\"], \"values\": [12, 24, 55]})\ndf.plot(kind=\"bar\", x=\"Category\", y=\"values\")\nplt.title('Bar Plot')\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "5C",
+          "name": "Histogram and Density Plot",
+          "description": "Visualize a random distribution with a histogram and KDE curve.",
+          "code": "import seaborn as sns\nimport numpy as np\nimport matplotlib.pyplot as plt\n\ndata = np.random.randn(500)\nsns.histplot(data, kde=True)\nplt.title('Histogram and density')\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Seaborn",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "5D",
+          "name": "Scatter Plot",
+          "description": "Visualize the relationship between two random numerical variables.",
+          "code": "import numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.random.rand(54)\ny = np.random.rand(54)\nplt.scatter(x, y)\nplt.xlabel(\"x-axis\")\nplt.ylabel(\"y-axis\")\n\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "NumPy",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "5E",
+          "name": "Box Plot",
+          "description": "Summarize distributions across multiple variables with a Seaborn box plot.",
+          "code": "import seaborn as sns\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nsns.boxplot(data=np.random.randn(80, 4))\nplt.title('box plot')\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Seaborn",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "name": "Time Series Analysis",
+      "description": "Create and manipulate timestamp-indexed data, generate date ranges, work with time zones and periods, convert periods and timestamps between frequencies, and perform resampling, downsampling, and upsampling.",
+      "coverImage": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Time Series"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "6A",
+          "name": "Create a Time Series Using Datetime Objects",
+          "description": "Create a Pandas Series indexed by timestamps.",
+          "code": "import pandas as pd\nimport numpy as np\n\nrng = pd.date_range(\"2023-01-01\", periods=6, freq=\"D\")\nts = pd.Series(np.random.randn(len(rng)), index=rng)\nprint(ts)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Datetime"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6B",
+          "name": "Generate Date Ranges and Work with Time Zones",
+          "description": "Generate timestamps, localize a timezone, convert to another timezone, and combine timezone-aware series.",
+          "code": "import pandas as pd\n\nts = pd.Timestamp.now()\nts_utc = ts.tz_localize(\"UTC\")\nts_ind = ts_utc.tz_convert(\"Asia/Kolkata\")\nprint(\"India time:\")\nprint(ts_ind)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Timezone"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6C",
+          "name": "Period Arithmetic and Period Ranges",
+          "description": "Add and subtract integers from Period objects and create a range using period_range().",
+          "code": "import pandas as pd\n\np = pd.Period(\"2024Q1\")\nprint(\"Next period:\")\nprint(p + 1)\nprint(\"Quarter converted to month-end frequency:\")\nprint(p.asfreq(\"M\", \"end\"))",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Period"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6D",
+          "name": "Basic Time Series Resampling",
+          "description": "Resample time-series observations and calculate monthly mean values.",
+          "code": "import pandas as pd\nimport numpy as np\n\nts = pd.Series(\n    np.random.randn(100),\n    index=pd.date_range(\"2024-01-01\", periods=100)\n)\n# Use 'ME' (month-end) frequency for modern Pandas\nts_monthly = ts.resample(\"ME\").mean()\nprint(\"Monthly mean values:\")\nprint(ts_monthly)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Resampling"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6E",
+          "name": "Convert Periods and PeriodIndex to Another Frequency",
+          "description": "Use asfreq() to convert Period and PeriodIndex objects to another frequency, selecting the start or end of each period.",
+          "code": "import pandas as pd\n\np = pd.Period(\"2026-01\", freq=\"M\")\nprint(\"Original monthly period:\")\nprint(p)\nprint(\"\\nMonthly to daily (start):\")\nprint(p.asfreq(\"D\", how=\"start\"))\nprint(\"\\nMonthly to daily (end):\")\nprint(p.asfreq(\"D\", how=\"end\"))\n\nperiod_index = pd.period_range(start=\"2026-01\", periods=3, freq=\"M\")\nprint(\"\\nOriginal PeriodIndex:\")\nprint(period_index)\nprint(\"\\nPeriodIndex to daily (start):\")\nprint(period_index.asfreq(\"D\", how=\"start\"))\nprint(\"\\nPeriodIndex to daily (end):\")\nprint(period_index.asfreq(\"D\", how=\"end\"))",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "PeriodIndex",
+            "asfreq()"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6F",
+          "name": "Convert Timestamp-Indexed Series and DataFrames to Periods",
+          "description": "Use to_period() to convert timestamp indexes in Series and DataFrames into periods.",
+          "code": "import pandas as pd\n\ndates = pd.to_datetime([\"2026-01-10\", \"2026-02-15\", \"2026-03-20\", \"2026-04-25\"])\nsales = pd.Series([1000, 1500, 1800, 2200], index=dates)\nprint(\"Original Series:\")\nprint(sales)\nprint(\"\\nSeries converted to monthly periods:\")\nprint(sales.to_period(\"M\"))\n\ndf = pd.DataFrame(\n    {\"Sales\": [1000, 1500, 1800, 2200], \"Profit\": [200, 300, 400, 500]},\n    index=dates\n)\nprint(\"\\nDataFrame converted to monthly periods:\")\nprint(df.to_period(\"M\"))",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Series",
+            "DataFrame",
+            "to_period()"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "6G",
+          "name": "Resampling, Downsampling, and Upsampling",
+          "description": "Resample hourly data, aggregate larger intervals, and upsample to 30-minute intervals with optional forward filling.",
+          "code": "import pandas as pd\n\ndates = pd.date_range(\"2026-01-01 00:00\", periods=12, freq=\"h\")\nvalues = [10, 12, 15, 14, 18, 20, 22, 21, 25, 28, 30, 32]\nts = pd.Series(values, index=dates)\nprint(\"Original hourly time series:\")\nprint(ts)\n\nprint(\"\\nResampling - 3-hour mean:\")\nprint(ts.resample(\"3h\").mean())\n\nprint(\"\\nDownsampling - 4-hour sum:\")\nprint(ts.resample(\"4h\").sum())\n\nprint(\"\\nUpsampling - 30-minute intervals:\")\nprint(ts.resample(\"30min\").asfreq())\n\nprint(\"\\nUpsampling with forward fill:\")\nprint(ts.resample(\"30min\").ffill())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Resampling",
+            "Time Series"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "name": "Data Aggregation",
+      "description": "Group tabular data using single or multiple keys, calculate grouped summary statistics, and perform exploratory data analysis on an online dataset.",
+      "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "GroupBy",
+        "Aggregation",
+        "EDA"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "7A",
+          "name": "Group Data Using Single and Multiple Keys",
+          "description": "Create a DataFrame, group records by one or multiple keys, select groups, and calculate average marks.",
+          "code": "import pandas as pd\n\ndata = {\n    \"Name\": [\"Ravi\", \"Sita\", \"Arun\", \"Priya\", \"Kiran\", \"Anil\", \"Lakshmi\", \"Rahul\"],\n    \"Department\": [\"CSE\", \"CSE\", \"ECE\", \"ECE\", \"CSE\", \"ECE\", \"CSE\", \"ECE\"],\n    \"Year\": [2, 2, 3, 3, 2, 3, 3, 2],\n    \"Marks\": [85, 90, 78, 88, 75, 82, 95, 70]\n}\ndf = pd.DataFrame(data)\nprint(\"Original DataFrame:\")\nprint(df)\n\nprint(\"\\nGroup by Department:\")\nfor department, group in df.groupby(\"Department\"):\n    print(f\"\\nDepartment: {department}\")\n    print(group)\nprint(\"\\nAverage marks by Department:\")\nprint(df.groupby(\"Department\")[\"Marks\"].mean())\n\nprint(\"\\nGroup by Department and Year:\")\nfor key, group in df.groupby([\"Department\", \"Year\"]):\n    print(f\"\\nGroup: {key}\")\n    print(group)\nprint(\"\\nAverage marks by Department and Year:\")\nprint(df.groupby([\"Department\", \"Year\"])[\"Marks\"].mean())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "DataFrame",
+            "groupby()"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "7B",
+          "name": "Compute Summary Statistics Using Aggregation",
+          "description": "Calculate sum, mean, and standard deviation for Marks and Attendance grouped by department.",
+          "code": "import pandas as pd\n\ndata = {\n    \"Department\": [\"CSE\", \"CSE\", \"CSE\", \"ECE\", \"ECE\", \"ECE\", \"EEE\", \"EEE\", \"EEE\"],\n    \"Marks\": [80, 75, 85, 70, 65, 75, 90, 85, 95],\n    \"Attendance\": [90, 85, 95, 80, 75, 85, 95, 90, 100]\n}\ndf = pd.DataFrame(data)\nprint(\"Original DataFrame:\")\nprint(df)\n\nsummary = df.groupby(\"Department\").aggregate({\n    \"Marks\": [\"sum\", \"mean\", \"std\"],\n    \"Attendance\": [\"sum\", \"mean\", \"std\"]\n})\nprint(\"\\nSummary statistics:\")\nprint(summary)",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "aggregate()",
+            "Statistics"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "7C",
+          "name": "GroupBy and Exploratory Data Analysis on an Online Dataset",
+          "description": "Load the online Iris dataset, inspect and summarize it, group by one or multiple columns, and calculate species-level statistics.",
+          "code": "import pandas as pd\n\n# Read the online Iris dataset\nurl = \"https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv\"\ndf = pd.read_csv(url)\n\nprint(\"First 5 records:\")\nprint(df.head())\nprint(\"\\nDataset information:\")\ndf.info()\nprint(\"\\nStatistical summary:\")\nprint(df.describe())\n\nprint(\"\\nGroupBy using a single column:\")\nprint(df.groupby(\"species\")[\"sepal_length\"].agg(\n    [\"count\", \"sum\", \"mean\", \"std\", \"min\", \"max\"]\n))\n\nprint(\"\\nGroupBy using multiple columns:\")\nprint(df.groupby([\"species\", \"sepal_width\"])[\"sepal_length\"].mean().head(15))\n\nprint(\"\\nSummary statistics by species:\")\nprint(df.groupby(\"species\").agg({\n    \"sepal_length\": [\"mean\", \"std\", \"min\", \"max\"],\n    \"sepal_width\": [\"mean\", \"std\", \"min\", \"max\"],\n    \"petal_length\": [\"mean\", \"std\", \"min\", \"max\"],\n    \"petal_width\": [\"mean\", \"std\", \"min\", \"max\"]\n}))\n\nprint(\"\\nNumber of records in each species:\")\nprint(df[\"species\"].value_counts())\nprint(\"\\nAverage petal length by species:\")\nprint(df.groupby(\"species\")[\"petal_length\"].mean())\nprint(\"\\nAverage petal width by species:\")\nprint(df.groupby(\"species\")[\"petal_width\"].mean())\nprint(\"\\nMaximum sepal length by species:\")\nprint(df.groupby(\"species\")[\"sepal_length\"].max())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Online Dataset",
+            "GroupBy",
+            "EDA"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "name": "Web Scraping and Exploratory Data Analysis of Product Reviews",
+      "description": "Extract product reviews from web pages using Beautiful Soup, perform NLP text analysis, generate WordClouds for positive and negative reviews, compute text statistics distributions, and perform VADER sentiment analysis.",
+      "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "BeautifulSoup4",
+        "NLTK",
+        "VADER",
+        "WordCloud",
+        "Pandas",
+        "Seaborn"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "8A",
+          "name": "Extract Product Reviews with Beautiful Soup",
+          "description": "Extract customer review titles, bodies, and ratings from an authorized HTML source using Beautiful Soup and save to CSV.",
+          "code": "from bs4 import BeautifulSoup\nimport pandas as pd\nimport os\n\n# Experiment 8A: Web Scraping Product Reviews using Beautiful Soup\n# Reads authorized/saved reviews.html and extracts title, review text, and rating\n\nhtml_file = \"reviews.html\"\nif not os.path.exists(html_file):\n    print(\"reviews.html not found, using default sample HTML.\")\n    html_content = \"\"\"<div class=\"review\">\n        <div class=\"review-title\">Great product</div>\n        <div class=\"rating\">5 out of 5</div>\n        <div class=\"review-text\">Excellent quality! Works like a charm and very durable. I am extremely satisfied with this purchase.</div>\n    </div>\n    <div class=\"review\">\n        <div class=\"review-title\">Not satisfied</div>\n        <div class=\"rating\">2 out of 5</div>\n        <div class=\"review-text\">The product stopped working after three days. Very poor build and terrible customer service.</div>\n    </div>\n    <div class=\"review\">\n        <div class=\"review-title\">Worth buying</div>\n        <div class=\"rating\">4 out of 5</div>\n        <div class=\"review-text\">Good performance and decent battery life. Fast delivery and nice packaging. Satisfied!</div>\n    </div>\"\"\"\nelse:\n    with open(html_file, \"r\", encoding=\"utf-8\") as file:\n        html_content = file.read()\n\nsoup = BeautifulSoup(html_content, \"html.parser\")\nreview_blocks = soup.select(\".review\")\n\nrecords = []\nfor block in review_blocks:\n    review_element = block.select_one(\".review-text\")\n    rating_element = block.select_one(\".rating\")\n    title_element = block.select_one(\".review-title\")\n\n    review_text = review_element.get_text(\" \", strip=True) if review_element else \"\"\n    rating_text = rating_element.get_text(\" \", strip=True) if rating_element else \"\"\n    title = title_element.get_text(\" \", strip=True) if title_element else \"\"\n\n    if review_text:\n        records.append({\n            \"title\": title,\n            \"review\": review_text,\n            \"rating\": rating_text\n        })\n\ndf = pd.DataFrame(records)\ndf.to_csv(\"product_reviews.csv\", index=False, encoding=\"utf-8-sig\")\n\nprint(df.head())\nprint(\"\\nTotal reviews extracted:\", len(df))\nprint(\"Saved to product_reviews.csv\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "BeautifulSoup4",
+            "Pandas",
+            "Web Scraping"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "8B(i)",
+          "name": "WordCloud Analysis for Reviews",
+          "description": "Classify reviews using VADER compound polarity and generate WordCloud visualizations for all, positive, and negative reviews.",
+          "code": "import pandas as pd\nimport matplotlib.pyplot as plt\nimport os\ntry:\n    from wordcloud import WordCloud\nexcept ImportError:\n    from server.wordcloud import WordCloud\nfrom vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer\n\n# Experiment 8B(i): WordCloud Generation for All, Positive, and Negative Reviews\n\n# Ensure product_reviews.csv exists\nif not os.path.exists(\"product_reviews.csv\"):\n    df_init = pd.DataFrame({\n        \"title\": [\"Great product\", \"Not satisfied\", \"Worth buying\", \"Waste of money\", \"Outstanding performance\"],\n        \"review\": [\n            \"Excellent quality! Works like a charm and very durable. Extremely satisfied.\",\n            \"The product stopped working after three days. Very poor build and terrible customer service.\",\n            \"Good performance and decent battery life. Fast delivery and nice packaging.\",\n            \"Bad experience. Broken on arrival and unusable. Cheap plastic parts.\",\n            \"Amazing device! Exceeded my expectations. Beautiful design, super fast, and wonderful display.\"\n        ],\n        \"rating\": [\"5 out of 5\", \"2 out of 5\", \"4 out of 5\", \"1 out of 5\", \"5 out of 5\"]\n    })\n    df_init.to_csv(\"product_reviews.csv\", index=False)\n\ndf = pd.read_csv(\"product_reviews.csv\")\ndf[\"review\"] = df[\"review\"].fillna(\"\").astype(str)\n\nanalyzer = SentimentIntensityAnalyzer()\n\ndef classify_sentiment(text):\n    score = analyzer.polarity_scores(text)[\"compound\"]\n    if score >= 0.05:\n        return \"Positive\"\n    elif score <= -0.05:\n        return \"Negative\"\n    return \"Neutral\"\n\ndf[\"sentiment\"] = df[\"review\"].apply(classify_sentiment)\n\ndef generate_wordcloud(text, title, filename):\n    if not text.strip():\n        print(f\"No text available for: {title}\")\n        return\n\n    cloud = WordCloud(\n        width=1200,\n        height=600,\n        background_color=\"white\",\n        max_words=150,\n        collocations=False\n    ).generate(text)\n    \n    plt.figure(figsize=(12, 6))\n    plt.imshow(cloud, interpolation=\"bilinear\")\n    plt.axis(\"off\")\n    plt.title(title, fontsize=16, fontweight=\"bold\", pad=12)\n    plt.tight_layout()\n    plt.savefig(filename, dpi=300, bbox_inches=\"tight\")\n    plt.show()\n\n# 1. All reviews\nall_text = \" \".join(df[\"review\"])\ngenerate_wordcloud(all_text, \"WordCloud - All Reviews\", \"wordcloud_all.png\")\n\n# 2. Positive reviews\npositive_text = \" \".join(df.loc[df[\"sentiment\"] == \"Positive\", \"review\"])\ngenerate_wordcloud(positive_text, \"WordCloud - Positive Reviews\", \"wordcloud_positive.png\")\n\n# 3. Negative reviews\nnegative_text = \" \".join(df.loc[df[\"sentiment\"] == \"Negative\", \"review\"])\ngenerate_wordcloud(negative_text, \"WordCloud - Negative Reviews\", \"wordcloud_negative.png\")\n\ndf.to_csv(\"product_reviews_analyzed.csv\", index=False)\nprint(\"Sentiment counts:\")\nprint(df[\"sentiment\"].value_counts())\nprint(\"WordCloud images saved successfully.\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "WordCloud",
+            "VADER",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "8B(ii)",
+          "name": "Text Statistics and Distributions",
+          "description": "Calculate stopword count, numeric count, word count, character count, and average word length, and plot their frequency distributions.",
+          "code": "import re\nimport pandas as pd\nimport nltk\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom nltk.corpus import stopwords\nfrom collections import Counter\nimport os\n\n# Experiment 8B(ii): Distribution of Stopwords, Numerics, Word Count, Character Count, and Avg Word Length\n\nnltk.download(\"stopwords\", quiet=True)\n\nif not os.path.exists(\"product_reviews.csv\"):\n    df_init = pd.DataFrame({\n        \"title\": [\"Great product\", \"Not satisfied\", \"Worth buying\"],\n        \"review\": [\n            \"Excellent quality with 10 days battery life and 100 percent satisfaction.\",\n            \"Defective 2 items received out of 5 ordered. Completely broken.\",\n            \"Good value for 2026. Highly recommended!\"\n        ],\n        \"rating\": [\"5 out of 5\", \"1 out of 5\", \"4 out of 5\"]\n    })\n    df_init.to_csv(\"product_reviews.csv\", index=False)\n\ndf = pd.read_csv(\"product_reviews.csv\")\ndf[\"review\"] = df[\"review\"].fillna(\"\").astype(str)\n\nstop_words = set(stopwords.words(\"english\"))\n\ndef analyze_review(text):\n    tokens = re.findall(r\"\\b[\\w']+\\b\", text.lower())\n    words = re.findall(r\"\\b[A-Za-z]+\\b\", text)\n    numeric_tokens = re.findall(r\"\\b\\d+(?:\\.\\d+)?\\b\", text)\n\n    stopword_tokens = [token for token in tokens if token in stop_words]\n\n    return pd.Series({\n        \"word_count\": len(tokens),\n        \"character_count\": len(text),\n        \"numeric_count\": len(numeric_tokens),\n        \"stopword_count\": len(stopword_tokens),\n        \"average_word_length\": (\n            sum(len(word) for word in words) / len(words)\n            if words else 0\n        )\n    })\n\nstatistics = df[\"review\"].apply(analyze_review)\ndf = pd.concat([df, statistics], axis=1)\n\ndf.to_csv(\"review_statistics.csv\", index=False)\n\ncolumns = [\n    (\"stopword_count\", \"Stopword Count\"),\n    (\"numeric_count\", \"Numeric Token Count\"),\n    (\"word_count\", \"Word Count\"),\n    (\"character_count\", \"Character Count\"),\n    (\"average_word_length\", \"Average Word Length\")\n]\n\nfig, axes = plt.subplots(3, 2, figsize=(14, 15))\naxes = axes.flatten()\n\nfor i, (column, title) in enumerate(columns):\n    sns.histplot(data=df, x=column, kde=True, ax=axes[i], bins=15, color=\"#7c3aed\")\n    axes[i].set_title(title, fontweight=\"bold\")\n    axes[i].set_xlabel(title)\n    axes[i].set_ylabel(\"Number of Reviews\")\n\naxes[-1].axis(\"off\")\nplt.tight_layout()\nplt.savefig(\"review_statistics_distributions.png\", dpi=300)\nplt.show()\n\nall_tokens = re.findall(r\"\\b[\\w']+\\b\", \" \".join(df[\"review\"]).lower())\nstopword_frequency = Counter(token for token in all_tokens if token in stop_words)\n\nprint(\"Top 10 stopwords:\")\nprint(stopword_frequency.most_common(10))\n\nprint(\"\\nDescriptive statistics:\")\nprint(df[[\n    \"stopword_count\",\n    \"numeric_count\",\n    \"word_count\",\n    \"character_count\",\n    \"average_word_length\"\n]].describe())",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "NLTK",
+            "Seaborn",
+            "Regex",
+            "Statistics"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "8B(iii)",
+          "name": "Sentiment Analysis using NLTK and VADER",
+          "description": "Calculate positive, negative, neutral, and compound scores and compare sentiment categories using NLTK VADER and standalone VADER.",
+          "code": "import pandas as pd\nimport nltk\nfrom nltk.sentiment.vader import SentimentIntensityAnalyzer as NLTKVADER\nfrom vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer as StandaloneVADER\nimport os\n\n# Experiment 8B(iii): Display Sentiment Values Using NLTK and VADER\n\nnltk.download(\"vader_lexicon\", quiet=True)\n\nif not os.path.exists(\"product_reviews.csv\"):\n    df_init = pd.DataFrame({\n        \"title\": [\"Great\", \"Bad\", \"Okay\"],\n        \"review\": [\"The product is excellent.\", \"The quality is terrible.\", \"The product is okay.\"],\n        \"rating\": [\"5 out of 5\", \"1 out of 5\", \"3 out of 5\"]\n    })\n    df_init.to_csv(\"product_reviews.csv\", index=False)\n\ndf = pd.read_csv(\"product_reviews.csv\")\ndf[\"review\"] = df[\"review\"].fillna(\"\").astype(str)\n\nnltk_analyzer = NLTKVADER()\nvader_analyzer = StandaloneVADER()\n\ndef classify(score):\n    if score >= 0.05:\n        return \"Positive\"\n    elif score <= -0.05:\n        return \"Negative\"\n    return \"Neutral\"\n\n# NLTK VADER scores\nnltk_scores = df[\"review\"].apply(nltk_analyzer.polarity_scores)\ndf[\"nltk_positive\"] = nltk_scores.apply(lambda x: x[\"pos\"])\ndf[\"nltk_negative\"] = nltk_scores.apply(lambda x: x[\"neg\"])\ndf[\"nltk_neutral\"] = nltk_scores.apply(lambda x: x[\"neu\"])\ndf[\"nltk_compound\"] = nltk_scores.apply(lambda x: x[\"compound\"])\n\n# Standalone VADER scores\nvader_scores = df[\"review\"].apply(vader_analyzer.polarity_scores)\ndf[\"vader_positive\"] = vader_scores.apply(lambda x: x[\"pos\"])\ndf[\"vader_negative\"] = vader_scores.apply(lambda x: x[\"neg\"])\ndf[\"vader_neutral\"] = vader_scores.apply(lambda x: x[\"neu\"])\ndf[\"vader_compound\"] = vader_scores.apply(lambda x: x[\"compound\"])\n\ndf[\"nltk_sentiment\"] = df[\"nltk_compound\"].apply(classify)\ndf[\"vader_sentiment\"] = df[\"vader_compound\"].apply(classify)\n\n# Display sample results\nprint(df[[\n    \"review\",\n    \"nltk_compound\",\n    \"nltk_sentiment\",\n    \"vader_compound\",\n    \"vader_sentiment\"\n]].head(10).to_string(index=False))\n\nprint(\"\\nNLTK sentiment distribution:\")\nprint(df[\"nltk_sentiment\"].value_counts())\n\nprint(\"\\nStandalone VADER sentiment distribution:\")\nprint(df[\"vader_sentiment\"].value_counts())\n\ndf.to_csv(\"sentiment_analysis_results.csv\", index=False)\nprint(\"\\nResults saved to sentiment_analysis_results.csv\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "NLTK",
+            "VADER",
+            "Sentiment Analysis"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "8B(iv)",
+          "name": "Scatter Intensity Plot of Sentiments",
+          "description": "Visualize the distribution and strength of review sentiments across the dataset with horizontal threshold boundaries.",
+          "code": "import pandas as pd\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nimport os\n\n# Experiment 8B(iv): Create Scatter Intensity Plot of Sentiments\n\n# Ensure sentiment_analysis_results.csv exists\nif not os.path.exists(\"sentiment_analysis_results.csv\"):\n    df_seed = pd.DataFrame({\n        \"review\": [\n            \"Excellent quality! Highly recommended.\",\n            \"The product stopped working after 3 days. Terrible.\",\n            \"Good performance and fast delivery.\",\n            \"Broken on arrival, waste of money.\",\n            \"Super fast, wonderful display, loved it!\",\n            \"Mediocre quality, expected better.\",\n            \"Terrific value for money.\",\n            \"Worst online shopping experience ever.\"\n        ],\n        \"vader_compound\": [0.82, -0.65, 0.74, -0.71, 0.88, -0.15, 0.68, -0.78],\n        \"vader_sentiment\": [\"Positive\", \"Negative\", \"Positive\", \"Negative\", \"Positive\", \"Negative\", \"Positive\", \"Negative\"]\n    })\n    df_seed.to_csv(\"sentiment_analysis_results.csv\", index=False)\n\ndf = pd.read_csv(\"sentiment_analysis_results.csv\")\n\ndf[\"vader_compound\"] = pd.to_numeric(df[\"vader_compound\"], errors=\"coerce\")\ndf = df.dropna(subset=[\"vader_compound\"]).reset_index(drop=True)\n\ndf[\"review_index\"] = range(1, len(df) + 1)\n\npalette = {\n    \"Positive\": \"green\",\n    \"Negative\": \"red\",\n    \"Neutral\": \"gray\"\n}\n\nplt.figure(figsize=(14, 7))\n\nsns.scatterplot(\n    data=df,\n    x=\"review_index\",\n    y=\"vader_compound\",\n    hue=\"vader_sentiment\",\n    palette=palette,\n    s=85,\n    alpha=0.85\n)\n\n# Sentiment classification thresholds\nplt.axhline(y=0.05, color=\"green\", linestyle=\"--\", label=\"Positive threshold (0.05)\")\nplt.axhline(y=-0.05, color=\"red\", linestyle=\"--\", label=\"Negative threshold (-0.05)\")\nplt.axhline(y=0, color=\"black\", linestyle=\":\", label=\"Neutral reference (0.0)\")\n\nplt.ylim(-1.05, 1.05)\nplt.xlabel(\"Review Index\", fontsize=12, fontweight=\"bold\")\nplt.ylabel(\"VADER Compound Sentiment Score\", fontsize=12, fontweight=\"bold\")\nplt.title(\"Sentiment Intensity Scatter Plot of Product Reviews\", fontsize=15, fontweight=\"bold\", pad=12)\nplt.legend(loc=\"best\")\nplt.grid(alpha=0.25)\nplt.tight_layout()\n\nplt.savefig(\"sentiment_intensity_scatter.png\", dpi=300)\nplt.show()\n\nprint(\"Scatter intensity plot saved successfully as sentiment_intensity_scatter.png.\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Seaborn",
+            "Matplotlib",
+            "Data Visualization"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "Customer Personality Analysis",
+      "description": "Analyze customer income and purchasing behavior with K-Means clustering, evaluate cluster quality, and visualize actionable customer segments for targeted marketing.",
+      "coverImage": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "K-Means",
+        "Seaborn",
+        "Matplotlib"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "9A",
+          "name": "Customer Segmentation with K-Means",
+          "description": "Cluster customers using annual income and spending score, then visualize the resulting customer groups. Uses a built-in sample dataset so it runs without downloading files.",
+          "code": "import pandas as pd\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom sklearn.cluster import KMeans\n\n# Small, reproducible customer dataset (no download required)\ndf = pd.DataFrame({\n    \"Customer\": range(1, 16),\n    \"Annual Income (k$)\": [15, 16, 17, 18, 20, 25, 28, 30, 45, 48, 50, 65, 70, 85, 90],\n    \"Spending Score (1-100)\": [39, 81, 6, 77, 40, 35, 60, 75, 45, 49, 42, 35, 14, 80, 90]\n})\nfeatures = df[[\"Annual Income (k$)\", \"Spending Score (1-100)\"]]\nmodel = KMeans(n_clusters=3, random_state=42, n_init=10)\ndf[\"Cluster\"] = model.fit_predict(features)\nprint(\"Customer segment counts:\")\nprint(df[\"Cluster\"].value_counts().sort_index())\nprint(\"\\nCustomer data with assigned clusters:\")\nprint(df.to_string(index=False))\nsns.scatterplot(data=df, x=\"Annual Income (k$)\", y=\"Spending Score (1-100)\", hue=\"Cluster\", palette=\"tab10\", s=90)\nplt.title(\"Customer Segments by Income and Spending\")\nplt.tight_layout()\nplt.show()",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "K-Means",
+            "Seaborn",
+            "Matplotlib"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "9B",
+          "name": "Customer Personality Analysis and Cluster Evaluation",
+          "description": "Standardize customer spending features, compare cluster counts with silhouette scores, summarize segments, visualize the groups, and save the results as CSV files.",
+          "code": "import pandas as pd\nimport matplotlib.pyplot as plt\nimport seaborn as sns\nfrom sklearn.cluster import KMeans\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.metrics import silhouette_score\n\n# Reproducible customer personality sample dataset\ndf = pd.DataFrame({\n    \"Income\": [25000, 28000, 32000, 35000, 42000, 45000, 52000, 58000, 65000, 70000, 78000, 85000, 92000, 105000, 115000, 125000],\n    \"MntWines\": [15, 20, 25, 30, 45, 55, 80, 100, 130, 150, 180, 210, 230, 260, 300, 330],\n    \"MntFruits\": [5, 8, 7, 10, 12, 15, 18, 20, 25, 28, 30, 35, 38, 42, 45, 50],\n    \"MntMeatProducts\": [10, 15, 20, 25, 30, 40, 55, 65, 75, 90, 110, 125, 140, 160, 180, 200],\n    \"MntFishProducts\": [3, 4, 5, 6, 8, 10, 12, 15, 18, 20, 24, 28, 30, 35, 40, 45],\n    \"MntSweetProducts\": [4, 5, 6, 7, 9, 12, 14, 17, 20, 22, 25, 29, 32, 36, 40, 44],\n    \"MntGoldProds\": [8, 10, 12, 15, 18, 22, 28, 32, 38, 42, 48, 52, 58, 65, 70, 78]\n})\nfeatures = [\"Income\", \"MntWines\", \"MntFruits\", \"MntMeatProducts\", \"MntFishProducts\", \"MntSweetProducts\", \"MntGoldProds\"]\ndata = df[features].copy()\ndata = data.fillna(data.median())\nX = StandardScaler().fit_transform(data)\n\nscores = {}\nfor k in range(2, min(6, len(df))):\n    labels = KMeans(n_clusters=k, random_state=42, n_init=10).fit_predict(X)\n    scores[k] = silhouette_score(X, labels)\nbest_k = max(scores, key=scores.get)\nmodel = KMeans(n_clusters=best_k, random_state=42, n_init=10)\ndf[\"Customer_Segment\"] = model.fit_predict(X)\n\nsummary = df.groupby(\"Customer_Segment\")[features].mean().round(2)\nprint(\"Silhouette scores:\", {k: round(v, 3) for k, v in scores.items()})\nprint(\"\\nBest number of clusters:\", best_k)\nprint(\"\\nCustomer segment summary:\")\nprint(summary)\nsns.scatterplot(data=df, x=\"Income\", y=\"MntWines\", hue=\"Customer_Segment\", palette=\"Set2\", s=90)\nplt.title(\"Customer Segments by Income and Wine Spending\")\nplt.tight_layout()\nplt.show()\ndf.to_csv(\"customer_segments.csv\", index=False)\nsummary.to_csv(\"segment_summary.csv\")\nprint(\"\\nSaved customer_segments.csv and segment_summary.csv\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "Pandas",
+            "Scikit-learn",
+            "StandardScaler",
+            "Silhouette Score"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "name": "Text Emotion Detection",
+      "description": "Use Natural Language Processing and machine learning to classify short messages into emotions and display a matching emoji. Includes a simple Naive Bayes model and a TF-IDF classification pipeline.",
+      "coverImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1400&q=80",
+      "date": "2026",
+      "status": "Published",
+      "technologies": [
+        "Python",
+        "NLP",
+        "Scikit-learn",
+        "Naive Bayes",
+        "TF-IDF",
+        "Logistic Regression"
+      ],
+      "code": "",
+      "output": "",
+      "outputImages": [],
+      "subExperiments": [
+        {
+          "id": "10A",
+          "name": "Text Emotion Classification with Naive Bayes",
+          "description": "Convert example messages into word-count vectors, train a Multinomial Naive Bayes classifier, and predict emotions for new messages.",
+          "code": "from sklearn.feature_extraction.text import CountVectorizer\nfrom sklearn.naive_bayes import MultinomialNB\n\n# Sample labeled messages\ntexts = [\n    \"I am happy\", \"I feel joyful\", \"This is wonderful\",\n    \"I am angry\", \"I feel furious\", \"This makes me mad\",\n    \"I feel sad\", \"I am lonely\", \"I miss my friend\",\n    \"I love this\", \"You are so kind\", \"I adore my family\"\n]\nlabels = [\n    \"happy\", \"happy\", \"happy\",\n    \"anger\", \"anger\", \"anger\",\n    \"sadness\", \"sadness\", \"sadness\",\n    \"love\", \"love\", \"love\"\n]\nvectorizer = CountVectorizer()\nX = vectorizer.fit_transform(texts)\nmodel = MultinomialNB()\nmodel.fit(X, labels)\n\ntest_messages = [\"I am so sad today\", \"This is wonderful\", \"I feel furious\"]\nfor message in test_messages:\n    prediction = model.predict(vectorizer.transform([message]))[0]\n    print(f\"Text: {message}\")\n    print(f\"Predicted emotion: {prediction}\\n\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "CountVectorizer",
+            "Naive Bayes",
+            "NLP"
+          ],
+          "date": "2026",
+          "status": "Published"
+        },
+        {
+          "id": "10B",
+          "name": "TF-IDF Emotion Detection with Emoji Prediction",
+          "description": "Train a TF-IDF and Logistic Regression pipeline, evaluate it with a classification report, and display a relevant emoji for each predicted emotion.",
+          "code": "import pandas as pd\nfrom sklearn.model_selection import train_test_split\nfrom sklearn.pipeline import Pipeline\nfrom sklearn.feature_extraction.text import TfidfVectorizer\nfrom sklearn.linear_model import LogisticRegression\nfrom sklearn.metrics import accuracy_score, classification_report\n\n# Small, balanced sample dataset; use a larger labeled dataset for real applications\ndata = {\n    \"text\": [\n        \"I am very happy today\", \"This is a wonderful day\", \"I feel cheerful and excited\",\n        \"I am sad and lonely\", \"I feel very disappointed\", \"I miss my family so much\",\n        \"I am angry with you\", \"This makes me furious\", \"I hate this situation\",\n        \"I am scared of the dark\", \"I am afraid of losing\", \"I feel nervous and frightened\",\n        \"I love you so much\", \"You mean everything to me\", \"I adore spending time with you\", \"I love my family\",\n        \"Wow this is unbelievable\", \"I did not expect this surprise\", \"What an amazing unexpected gift\"\n    ],\n    \"emotion\": [\n        \"happy\", \"happy\", \"happy\", \"sadness\", \"sadness\", \"sadness\",\n        \"anger\", \"anger\", \"anger\", \"fear\", \"fear\", \"fear\",\n        \"love\", \"love\", \"love\", \"love\", \"surprise\", \"surprise\", \"surprise\"\n    ]\n}\ndf = pd.DataFrame(data)\nX_train, X_test, y_train, y_test = train_test_split(\n    df[\"text\"], df[\"emotion\"], test_size=0.33, random_state=42, stratify=df[\"emotion\"]\n)\nmodel = Pipeline([\n    (\"tfidf\", TfidfVectorizer(ngram_range=(1, 2)),\n    ),\n    (\"classifier\", LogisticRegression(max_iter=1000, random_state=42))\n])\nmodel.fit(X_train, y_train)\npredictions = model.predict(X_test)\nprint(\"Test accuracy:\", round(accuracy_score(y_test, predictions) * 100, 2), \"%\")\nprint(\"\\nClassification report:\")\nprint(classification_report(y_test, predictions, zero_division=0))\n\nemoji_map = {\"happy\": \"😊\", \"sadness\": \"😢\", \"anger\": \"😠\", \"fear\": \"😨\", \"love\": \"❤️\", \"surprise\": \"😲\"}\ndef detect_emotion(text):\n    emotion = model.predict([text])[0]\n    print(f\"Input text: {text}\")\n    print(f\"Detected emotion: {emotion}\")\n    print(f\"Relevant emoji: {emoji_map[emotion]}\\n\")\n\ndetect_emotion(\"I am happy to see you\")\ndetect_emotion(\"I feel lonely today\")\ndetect_emotion(\"I love my family\")",
+          "output": "",
+          "outputImages": [],
+          "technologies": [
+            "Python",
+            "TF-IDF",
+            "Logistic Regression",
+            "Emoji",
+            "NLP"
+          ],
+          "date": "2026",
+          "status": "Published"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "stock-day-tracker",
+      "number": 1,
+      "title": "Stock Day Tracker",
+      "tagline": "NSE/BSE Market Intelligence & Day-by-Day Price Movement Analytics",
+      "category": "FinTech & Real-Time Analytics",
+      "status": "Completed",
+      "date": "2026",
+      "coverImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1400&q=80",
+      "technologies": [
+        "React.js",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "Vite",
+        "Market Data APIs"
+      ],
+      "description": "Developed a stock market tracking web application that displays day-by-day price movements of NSE/BSE stocks through interactive weekly and monthly views. Implemented watchlists, stock search, price change and percentage tracking, heatmap visualization, and stock detail charts. Designed a modular market data architecture supporting simulated data and external market data providers, with caching to improve efficiency.",
+      "keyFeatures": [
+        "Interactive weekly and monthly views displaying day-by-day price movements of NSE/BSE stocks.",
+        "Customizable watchlists with instant stock search and real-time ticker tracking.",
+        "High-contrast price change metrics with green/red percentage tracking and volume signals.",
+        "Dynamic sector heatmap visualization for rapid cross-market sector performance analysis.",
+        "Detailed stock breakdown charts with moving averages, OHLCV data, and time-frame zoom.",
+        "Modular market data architecture with automated fallback between live external APIs and simulated feeds.",
+        "Multi-level in-memory data caching layer with TTL expiration for high throughput and reduced latency."
+      ],
+      "architecture": "Vite + React.js frontend interface with modular data hooks, coupled with an Express.js backend caching proxy layer communicating with external Market Data APIs and in-memory cache stores.",
+      "githubUrl": "https://github.com/bapathisharanya28",
+      "liveDemoUrl": "https://github.com/bapathisharanya28",
+      "highlights": [
+        {
+          "label": "Market Feeds",
+          "value": "NSE / BSE Real-time"
+        },
+        {
+          "label": "Data Caching",
+          "value": "In-Memory TTL Cache"
+        },
+        {
+          "label": "Visualizations",
+          "value": "Heatmap & OHLCV"
+        },
+        {
+          "label": "Architecture",
+          "value": "Modular Provider Proxy"
+        }
+      ]
+    },
+    {
+      "id": "civic-issue-reporting-platform",
+      "number": 2,
+      "title": "Civic Issue Reporting Platform (CivicConnect)",
+      "tagline": "Full-Stack Civic Grievance Management, Role-Based Redressal & Resolution Analytics",
+      "category": "GovTech & Civic Services",
+      "status": "Completed",
+      "date": "2026",
+      "coverImage": "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1400&q=80",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "SQLite",
+        "JWT"
+      ],
+      "description": "Developed a full-stack civic grievance management platform that enables citizens to report public issues and track their resolution status. Implemented role-based access for citizens, government officials, and administrators, including complaint assignment, status updates, activity timelines, and feedback submission. Integrated JWT-based authentication, password hashing, and an SQLite database to manage users, complaints, and administrative analytics.",
+      "keyFeatures": [
+        "Citizen public grievance submission with geo-tagging, categorisation, and multimedia uploads.",
+        "Role-Based Access Control (RBAC) securely separating Citizens, Government Officials, and System Administrators.",
+        "Dynamic complaint assignment engine routing issues to relevant department officers based on jurisdiction.",
+        "Live status progression (Submitted → Under Review → Assigned → In Progress → Resolved → Closed).",
+        "Interactive activity timeline displaying transparent chronological audit trails of official actions.",
+        "Citizen feedback and star-rating mechanism upon issue resolution for accountability.",
+        "Stateless JWT-based authentication paired with Bcrypt salted cryptographic password hashing.",
+        "Normalized SQLite relational schema managing users, grievances, department allocations, and audit logs.",
+        "Administrative analytics dashboard with SLA turnaround tracking and department resolution charts."
+      ],
+      "architecture": "Full-stack client-server platform powered by Node.js and Express.js REST endpoints, SQLite relational database layer with foreign key cascades, and stateless JWT token authentication middleware.",
+      "githubUrl": "https://github.com/bapathisharanya28",
+      "liveDemoUrl": "https://github.com/bapathisharanya28",
+      "highlights": [
+        {
+          "label": "Access Control",
+          "value": "Role-Based (Citizen/Official/Admin)"
+        },
+        {
+          "label": "Security",
+          "value": "JWT + Salted Bcrypt"
+        },
+        {
+          "label": "Database",
+          "value": "SQLite Relational Engine"
+        },
+        {
+          "label": "Tracking",
+          "value": "Audited Activity Timeline"
+        }
+      ]
+    }
+  ],
+  "theme": "dark",
+  "toolsDescription": ""
+}
